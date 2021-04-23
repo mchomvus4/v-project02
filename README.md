@@ -1,5 +1,7 @@
-The knowledge obtained from this project are<br><br>
-Using CDN to interact with VUEjs
+The knowledge obtained from this project are
+<br>
+->Using CDN to interact with VUEjs
+<br>
 -> attribute binding<br>
 ->listing<br>
 ->event handler
